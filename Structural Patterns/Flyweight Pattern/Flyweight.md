@@ -1,6 +1,6 @@
-#The Flywheel Pattern
-The Flywheel Pattern is also known as the Cache Pattern
-The Members of the Flywheel Pattern are:
+#The Flyweight Pattern
+The Flyweight Pattern is also known as the Cache Pattern
+The Members of the Flyweight Pattern are:
 - The Flyweight which defines the interface that the client expects to see
 - The Concrete Flyweight which implements the Flyweight interface
 - The Flyweight Factory which is the class that creates and manages the Flyweight objects
