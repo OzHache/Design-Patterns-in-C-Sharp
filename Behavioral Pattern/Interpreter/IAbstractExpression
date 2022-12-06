@@ -1,0 +1,8 @@
+//The Abstract Expression is the one that will be used to interpret the context.
+namespace Interpreter_Pattern
+{
+    public interface IAbstractExpression {
+        void Interpret(Context context);
+    }
+}
+
