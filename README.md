@@ -11,15 +11,14 @@ The Creational Patterns are:
 - Singleton
 
 ## Structural Patterns
-The Structural Patterns are:
-- [Adapter] (Structural Patterns/Adapter Pattern/Adapter.md) 
-- [Bridge] (Structural Patterns/Bridge Pattern/Bridge.md)
-- [Composite] (Structural Patterns/Composite Pattern/Composite.md)
-- [Decorator] (Structural Patterns/Decorator/Decorator.md)
-- [Facade] (Structural Patterns/Facade Pattern/Facade.md)
-- [Flyweight] (Structural Patterns/Flyweight Pattern/Flyweight.md)
-- [Proxy] (Structural Patterns/Proxy Pattern/Proxy.md)
-
+The [Structural Patterns](https://github.com/OzHache/Design-Patterns-in-C-Sharp/blob/main/Structural%20Patterns/Structural%20Patterns.md) are:
+- [Adapter](https://github.com/OzHache/Design-Patterns-in-C-Sharp/blob/main/Structural%20Patterns/Adapter%20Pattern/Adapter.md)
+- [Bridge](https://github.com/OzHache/Design-Patterns-in-C-Sharp/blob/main/Structural%20Patterns/Bridge%20Pattern/Bridge.md)
+- [Composite](https://github.com/OzHache/Design-Patterns-in-C-Sharp/blob/main/Structural%20Patterns/Composite/Composite.md)
+- [Decorator](https://github.com/OzHache/Design-Patterns-in-C-Sharp/blob/main/Structural%20Patterns/Decorator/Decorator.md)
+- [Facade](https://github.com/OzHache/Design-Patterns-in-C-Sharp/blob/main/Structural%20Patterns/Facade%20Pattern/Facade.md)
+- [Flyweight](https://github.com/OzHache/Design-Patterns-in-C-Sharp/blob/main/Structural%20Patterns/Flyweight%20Pattern/Flyweight.md)
+- [Proxy](https://github.com/OzHache/Design-Patterns-in-C-Sharp/blob/main/Structural%20Patterns/Proxy%20Pattern/Proxy.md)
 ## Behavioral Patterns
 The Behavioral Patterns are:
 - Chain of Responsibility

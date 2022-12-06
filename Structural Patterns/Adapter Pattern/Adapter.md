@@ -1,4 +1,4 @@
-#The Adapter Pattern
+# The Adapter Pattern
 The Adapter Pattern is also known as the Wrapper
 The Members of the Adapter Pattern are:
 - The Target Interface which is the interface that the client expects to see

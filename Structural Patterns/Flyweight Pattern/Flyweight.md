@@ -1,4 +1,4 @@
-#The Flyweight Pattern
+# The Flyweight Pattern
 The Flyweight Pattern is also known as the Cache Pattern
 The Members of the Flyweight Pattern are:
 - The Flyweight which defines the interface that the client expects to see
